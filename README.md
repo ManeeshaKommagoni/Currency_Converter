@@ -19,5 +19,5 @@ A simple **Currency Converter** web application built using **HTML, CSS, and Jav
 ```
 
 ## 🖼️ Screenshots
-![Currency Converter Screenshot](https://via.placeholder.com/600x300?text=Currency+Converter+Screenshot)
+![Screenshot 2025-02-26 142737](https://github.com/user-attachments/assets/692cacf8-f31d-419f-887a-89ad77f50e02)
 
